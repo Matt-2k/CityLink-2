@@ -151,7 +151,7 @@ Se ejecutan con `java -cp out app.Pruebas`. Resultado obtenido: **40 de 40 prueb
 
 ## Diagrama de clases
 
-En diagrama.png
+![Diagrama de clases de CityLink](diagrama_entregable2.png)
 
 
 ## Declaracion de uso de IA
